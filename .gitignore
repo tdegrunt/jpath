@@ -1,0 +1,13 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.yardoc/
+ehthumbs.db
+Thumbs.db
+Gemfile.lock
+pkg/
+tmp/
+doc/
+examples/
